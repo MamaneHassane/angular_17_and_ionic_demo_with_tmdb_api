@@ -1,0 +1,7 @@
+{
+  "name": "ionic_demo_tmdb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
