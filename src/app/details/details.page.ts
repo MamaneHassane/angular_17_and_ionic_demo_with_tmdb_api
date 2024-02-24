@@ -60,7 +60,12 @@ export class DetailsPage {
       }
     })
   }
-  constructor() { }
+  constructor() {
+    addIcons({
+      cashOutline,
+      calendarOutline
+    })
+   }
  
 
 }
